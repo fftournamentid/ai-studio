@@ -1,0 +1,6 @@
+{
+  "name": "AI Studio Video & Voice Generator",
+  "description": "Professional AI video and voice generator with project asset management, parallel batch requests, persistent background processing, and organized sequential downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

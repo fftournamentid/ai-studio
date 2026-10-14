@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Camera Slate / Lens Body -->
+    <path
+        android:pathData="M30,36 C30,31.58 33.58,28 38,28 L62,28 C66.42,28 70,31.58 70,36 L70,58 C70,62.42 66.42,66 62,66 L38,66 C33.58,66 30,62.42 30,58 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="30"
+                android:startY="28"
+                android:endX="70"
+                android:endY="66"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#7F5AF0" />
+                <item android:offset="1.0" android:color="#4F3DFE" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Camera Lens / Play Badge Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,40 L58,47 L46,54 Z" />
+
+    <!-- Video Camera Projector Cone / Bevel -->
+    <path
+        android:fillColor="#9F7AEA"
+        android:pathData="M70,42 L80,34 L80,60 L70,52 Z" />
+
+    <!-- AI Voice Soundwave Bars (Bottom Audio Waves) -->
+    <!-- Wave Bar 1 -->
+    <path
+        android:pathData="M32,74 L32,82"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#2CB67D" />
+
+    <!-- Wave Bar 2 -->
+    <path
+        android:pathData="M40,70 L40,86"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#00F2FE" />
+
+    <!-- Wave Bar 3 (Center High) -->
+    <path
+        android:pathData="M48,68 L48,88"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#00E5FF" />
+
+    <!-- Wave Bar 4 -->
+    <path
+        android:pathData="M56,71 L56,85"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#2CB67D" />
+
+    <!-- Wave Bar 5 -->
+    <path
+        android:pathData="M64,73 L64,83"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#00F2FE" />
+
+    <!-- Wave Bar 6 -->
+    <path
+        android:pathData="M72,75 L72,81"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeColor="#2CB67D" />
+
+    <!-- AI Magic Sparkle Star (Top Right) -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M66,23 C66,24.8 67.2,26 69,26 C67.2,26 66,27.2 66,29 C66,27.2 64.8,26 63,26 C64.8,26 66,24.8 66,23 Z" />
+
+    <!-- AI Magic Sparkle Star (Small Left) -->
+    <path
+        android:fillColor="#FFD166"
+        android:pathData="M27,42 C27,43.2 27.8,44 29,44 C27.8,44 27,44.8 27,46 C27,44.8 26.2,44 25,44 C26.2,44 27,43.2 27,42 Z" />
+
+</vector>
